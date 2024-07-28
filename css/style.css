@@ -274,7 +274,7 @@ a{
 
 #compny_p_box {
   max-width: 100vw;
-  background-image: url("/css/Rectangle\ 2432.png");
+  background-image: url("/images/Rectangle\ 2432.png")
 }
 
 .company_logo_images {
@@ -341,7 +341,7 @@ a{
   height: auto;
   display: flex;
   justify-content: space-around;
-  background: url(/Group\ 19142.svg);
+  background: url(/images/Group\ 19142.svg);
   background-color: #7ED957;
 }
 
@@ -1076,7 +1076,7 @@ footer {
 }
 
 .bottom-details {
-  background: url(/Group\ 19142.svg);
+  background: url(/images/Group\ 19142.svg);
   background-color: #65be16;
   height: 10vh;
   display: flex;
