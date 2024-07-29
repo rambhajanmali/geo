@@ -455,11 +455,20 @@ margin-bottom: 0;
   .section5 p {
     font-size: 1rem;
   }
+.leader{
+  width: 50%;
+  padding: 15px;
+}
+.client-detail{
+  margin-top: 20px;
+}
 
+.section6{
+  padding: 30px 20px;
+}
   .any-question h3 {
     font-size: 1.8rem;
   }
-
   .contact {
     margin: auto 5px;
 
