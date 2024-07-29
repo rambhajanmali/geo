@@ -1,34 +1,39 @@
 @media screen and (max-width: 1024px) {
-  .header-left{
+  .header-left {
     gap: 0;
   }
-  #header{
+
+  #header {
     height: 18%;
   }
-  .about1{
-    margin-top:250px;
-  }
-  .header-right{
-    margin: 10px;
-  }
-  .header-right ul{
-    padding: 0 15px;
-  }
-  .count{
-    height: 100px;
-  }
-  
-.right img{
-  margin-left: 50px;
-  width: 180px;
-  height: 130px;
-}
-  
-  .footer-content{
-margin-bottom: 0;
+
+  .about1 {
+    margin-top: 250px;
   }
 
-  .social-media{
+  .header-right {
+    margin: 10px;
+  }
+
+  .header-right ul {
+    padding: 0 15px;
+  }
+
+  .count {
+    height: 100px;
+  }
+
+  .right img {
+    margin-left: 50px;
+    width: 180px;
+    height: 130px;
+  }
+
+  .footer-content {
+    margin-bottom: 0;
+  }
+
+  .social-media {
     margin-top: 0;
   }
 }
@@ -89,9 +94,7 @@ margin-bottom: 0;
 
   }
 
-
-
-  .earth-container{
+  .earth-container {
     height: 100%;
     width: 50vw;
     top: 60px;
@@ -123,7 +126,8 @@ margin-bottom: 0;
   .btn a {
     font-size: 1rem;
   }
-  .main img{
+
+  .main img {
     top: 0;
   }
 
@@ -145,7 +149,7 @@ margin-bottom: 0;
 
   }
 
-  .para{
+  .para {
     width: 95%;
     margin: 12px;
   }
@@ -153,9 +157,11 @@ margin-bottom: 0;
   .geotree h2 {
     font-size: 2rem;
   }
+
   .svg {
     display: none;
   }
+
   .dashboard-btn {
     margin: 20px;
   }
@@ -336,17 +342,18 @@ margin-bottom: 0;
     padding: 40px 20px;
   }
 
-  .main{
+  .main {
     background-color: rgb(3, 3, 46);
   }
 
-  .earth-container{
+  .earth-container {
     height: 100%;
     width: 100vw;
     top: 60px;
     z-index: -1;
     overflow: none;
   }
+
   .about1 h1 {
     font-size: 40px;
     margin-top: 19px;
@@ -448,6 +455,18 @@ margin-bottom: 0;
     padding: 10px 70px;
   }
 
+.team{
+  height: 300px;
+}
+  .card {
+    width: 230px;
+    height: 230px;
+  }
+  .front-card img{
+    width: 230px;
+    height: 230px;
+  }
+
   .section5 h3 {
     font-size: 1.5rem;
   }
@@ -455,20 +474,24 @@ margin-bottom: 0;
   .section5 p {
     font-size: 1rem;
   }
-.leader{
-  width: 50%;
-  padding: 15px;
-}
-.client-detail{
-  margin-top: 20px;
-}
 
-.section6{
-  padding: 30px 20px;
-}
+  .leader {
+    width: 50%;
+    padding: 15px;
+  }
+
+  .client-detail {
+    margin-top: 20px;
+  }
+
+  .section6 {
+    padding: 30px 20px;
+  }
+
   .any-question h3 {
     font-size: 1.8rem;
   }
+
   .contact {
     margin: auto 5px;
 
