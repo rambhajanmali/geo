@@ -318,6 +318,34 @@
   }
 
 }
+@media screen and (max-width: 768px) {
+  .earth-container {
+      top:-15vw;
+      right: 0;
+      width: 20px;
+      
+        height: 20px;
+        /* width: 50vw; */
+       top: -2vh;
+        /* right: -600px; */
+        position: absolute;
+        z-index: -1;
+        overflow: hidden;
+      }
+      .about1 p {
+        font-size: 1rem;
+        padding: 15px 10PX 10PX;
+        color: white;
+    }
+    .main {
+      /* height: 900px; */
+      height: 115vh;
+      width: 100%;
+      background-color: #121424;
+      display: flex;
+    }
+}
+
 
 @media screen and (max-width:426px) {
   #header {
@@ -439,10 +467,12 @@
     font-size: 8.5px;
     padding-right: 5px;
   }
-
+  .div p{
+    font-size: 0.75rem ;
+  }
   .tree1 {
-    height: 53.7px;
-    width: 53.7px;
+    height: 50px;
+    width: 50px;
     padding: 10px;
   }
 
@@ -483,7 +513,14 @@
   .client-detail {
     margin-top: 20px;
   }
-
+  .slide_image{
+    animation: 18s slideshow infinite linear;
+ 
+  }
+  .slide_images{
+    animation: 20s slideshow infinite linear;
+    animation-direction: reverse;
+  }
   .section6 {
     padding: 30px 20px;
   }

@@ -61,7 +61,7 @@ a{
 }
 
 .header-left h3 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 .header-right {
@@ -260,13 +260,12 @@ a{
 .earth-container{
   height: 100%;
   width: 50vw;
-  top: 80px;
-  right: -250px;
+ top: -2vh;
+  right: -600px;
   position: absolute;
   z-index: 1000;
   overflow: hidden;
 }
-
 
 
 
